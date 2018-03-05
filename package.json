@@ -1,28 +1,16 @@
 {
-  "name": "create-odeum-project",
+  "name": "html1",
   "version": "0.1.0",
-  "description": "Create a new GitHub project template and repository for an ODEUM Code App.",
   "private": true,
-  "author": "Christian Broberg",
-  "license": "MIT",
   "dependencies": {
-	"odeum-app": "^0.2.48",
-	"odeum-ui": "^0.1.34",
-	"react": "^16.2.0",
-	"react-dom": "^16.2.0",
-	"react-router-dom": "^4.2.2",
-	"react-scripts": "^1.0.17",
-	"styled-components": "^2.4.0"
-},
-  "devDependencies": {
-	"babel-plugin-styled-components": "^1.4.0",
-	"babel-plugin-transform-react-remove-prop-types": "^0.4.10"
-},
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
+  },
   "scripts": {
-	"start": "react-scripts start",
-	"build": "react-scripts build",
-	"test": "react-scripts test --env=jsdom",
-	"rebuild": "rm yarn.lock && yarn",
-	"deploy": "yarn build && cp ./CNAME ./build/CNAME && cd build && surge ./"
-}
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
 }

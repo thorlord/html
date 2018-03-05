@@ -1,14 +1,5 @@
-html {
-	font-size: 62.5%;
-}
-
-body {	
-	font-family: Helvetica, 'Sans Serif', Arial;
-	font-weight: 300;
-	font-size: 15px;
-	margin: 0;
-}
-
-.color {
-	background-color: #e2a31a
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
 }
