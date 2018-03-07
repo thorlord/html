@@ -2,25 +2,33 @@
 <html>
 <body>
 <script>
-function light(sw) {
+
+const bulp1 = '1'
+const bulp2 = '2'
+
+function light(sw, bulp) {
     var pic;
     if (sw == 0) {
         pic = "pic_bulboff.gif"
     } else {
         pic = "pic_bulbon.gif"
     }
-    document.getElementById('myImage').src = pic;
+    document.getElementById('myImage' + bulp).src = pic;
 }
 </script>
 
-<img id="myImage" src="pic_bulboff.gif" width="100" height="180">
-
-
+<img id="myImage1" src="pic_bulboff.gif" width="100" height="180">
 <p>
-<button type="button" onclick="light(1)">Light On</button>
-<button type="button" onclick="light(0)">Light Off</button>
+	<button type="button" onclick="light(1, bulp1)">Light On</button>
+	<button type="button" onclick="light(0, bulp1)">Light Off</button>
 </p>
 
+
+<img id="myImage2" src="pic_bulboff.gif" width="100" height="180">
+<p>
+	<button type="button" onclick="light(1, bulp2)">Light On</button>
+	<button type="button" onclick="light(0, bulp2)">Light Off</button>
+</p>
 
 
 </body>
