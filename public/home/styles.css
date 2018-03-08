@@ -28,24 +28,24 @@
 
 .memebox {
     background: darkcyan;
-    height: 170px;
-    width: 170px;
-    margin: 90px;
+    height: 150px;
+    width: 230px;
+    margin: 50px;
 }
 
 .colorbox {
     background: darkcyan;
-    height: 170px;
-    width: 170px;
-    margin: 90px;
+    height: 150px;
+    width: 230px;
+    margin: 50px;
 }
 
 
 .somebox {
     background: teal;
-    height: 170px;
-    width: 170px; 
-  margin: 90px; 
+    height: 150px;
+    width: 230px;
+    margin: 50px;
 }
 
 .inline {
