@@ -17,3 +17,7 @@ function randomMemes() {
 	return memes[Math.floor(Math.random() * memes.length)];
 }
 
+function displayMemes(id) {
+	document.getElementById('memes').innerHTML = randomMemes()
+}
+
