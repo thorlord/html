@@ -1,3 +1,4 @@
+// Array of strings
 
 const memes = [
 	'Cheese bags can be hard to open for teenage slackers', 
@@ -12,6 +13,7 @@ const memes = [
 	'When nerds makes memes be like...'
 ]
 
+// Function named with camelcase - first letter always small, consecutive words uppercased first letter. 
 function randomMemes() {
 	return memes[Math.floor(Math.random() * memes.length)];
 }

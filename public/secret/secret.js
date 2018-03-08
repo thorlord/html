@@ -31,7 +31,7 @@ const memes = [
 	'Ketchup is like tomato, pretty bloody',
 	'Pickles is like being in a jam ... pickle',
 	'Thorlord is one deep fried teenage slacker hacker ... ',
-	'when nerds makes memes be like...'
+	'When nerds makes memes be like...'
 ]
 
 
