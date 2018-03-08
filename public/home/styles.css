@@ -1,0 +1,58 @@
+.header {
+    text-align: center;
+    background-image: url(http://www.boredville.com/images_obj/2011/05/03/full_295323478.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 150px;
+}
+
+.headertext {
+    font-size: 80px;
+    color: teal;
+    padding-top: 40px;
+    padding-right: 110px;
+}
+
+.container {
+    background: pink;
+    height: 100%;
+}
+
+.boxcontainer {
+    display: inline;
+/*     float: left;*/
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.memebox {
+    background: darkcyan;
+    height: 170px;
+    width: 170px;
+    margin: 100px;
+}
+
+.colorbox {
+    background: darkcyan;
+    height: 170px;
+    width: 170px;
+    margin: 100px;
+}
+
+
+.somebox {
+    background: teal;
+    height: 170px;
+    width: 170px; 
+  margin: 100px; 
+}
+
+.inline {
+    float: left;
+}
+.contentbox {
+    background: cyan;
+    height: 170px;
+    width: 170px;
+}
