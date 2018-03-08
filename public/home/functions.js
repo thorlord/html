@@ -1,5 +1,4 @@
 // Array of strings
-
 const memes = [
 	'Cheese bags can be hard to open for teenage slackers', 
 	'Ham is an important engredient in a nerd toast', 
