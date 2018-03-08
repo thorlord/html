@@ -2,7 +2,7 @@
 const bulp1 = '1'
 const bulp2 = '2'
 
-export function light(sw, bulp) {
+function light(sw, bulp) {
 	var pic;
 	if (sw == 0) {
 		pic = "pic_bulboff.gif"
@@ -12,7 +12,7 @@ export function light(sw, bulp) {
 	document.getElementById('myImage' + bulp).src = pic;
 }
 
-export function hello() {
+function hello() {
 	window.alert("Hello! I am an alert box!!")
 }
 
