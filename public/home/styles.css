@@ -30,14 +30,14 @@
     background: darkcyan;
     height: 170px;
     width: 170px;
-    margin: 100px;
+    margin: 90px;
 }
 
 .colorbox {
     background: darkcyan;
     height: 170px;
     width: 170px;
-    margin: 100px;
+    margin: 90px;
 }
 
 
@@ -45,7 +45,7 @@
     background: teal;
     height: 170px;
     width: 170px; 
-  margin: 100px; 
+  margin: 90px; 
 }
 
 .inline {
@@ -58,4 +58,7 @@
 }
 .gamechanger {
     background: blueviolet
+}
+.memes {
+	font-size: 25px;
 }
