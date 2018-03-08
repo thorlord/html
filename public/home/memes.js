@@ -9,9 +9,9 @@ const imageMemes = [
 	'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX0r5EjROqX83Fsy_2iPvfkRhRRw1EkHkIDIVVF2lfwrkVz1GN',
 	'http://www.dumpaday.com/wp-content/uploads/2016/11/119.jpg',
 	'http://i0.kym-cdn.com/photos/images/newsfeed/001/154/781/e7f.jpg',
-	'https://heavyeditorial.files.wordpress.com/2016/11/screen-shot-2016-11-08-at-11-44-23-pm.jpg?quality=65&strip=all&w=780',
+	'https://heavyeditorial.files.wordpress.com/2016/11/screen-shot-2016-11-08-at-11-44-23-pm.jpg',
 	'https://i.ytimg.com/vi/9mv17I9mGKw/maxresdefault.jpg',
-	'https://i2.wp.com/picsdownloadz.com/wp-content/uploads/2016/09/their-yard-sign-said-trump-momma-hates-trump-Funny-hilarious-trump-Memes.jpg?resize=600%2C451',
+	'https://i2.wp.com/picsdownloadz.com/wp-content/uploads/2016/09/their-yard-sign-said-trump-momma-hates-trump-Funny-hilarious-trump-Memes.jpg',
 
 ]
 
