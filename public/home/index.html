@@ -1,20 +1,20 @@
 <html>
     <head>
         <link rel="stylesheet" href="styles.css">
-		<script src="funcions.js"></script>
+		<!-- <script src="funcions.js"></script> -->
 		<script src="memes.js"></script>
     </head>
 <body>
     <div class="header">
         <h1 class="headertext">Thorlord</h1> 
     </div>
-    <div class="container">    
-        <div class="boxcontainer">
-            <div class="memebox inline" onclick="displayImageMemes()">Image Memes</div>
-            <div class="colorbox inline"></div>
+    <!-- <div class="container">     -->
+        <!-- <div class="boxcontainer"> -->
+			<div class="memebox inline" onclick="displayImageMemes()">Image Memes</div>
             <div class="somebox inline" onclick="displayMemes()">Memes</div>
+            <div class="colorbox inline"></div>
             <div class="somebox inline"></div>			
-		</div>
+		<!-- </div> -->
 		
 		<div class="gamechanger">
 			<img id="imagememes" width="50%" height="50%">
@@ -22,12 +22,12 @@
 
 		</div>
 		
-	</div>
+	<!-- </div> -->
 
 
 <script>
-	document.getElementById('memes').innerHTML = randomMemes()
 	document.getElementById("imagememes").src = randomImageMemes()
+	document.getElementById('memes').innerHTML = randomMemes()
 </script>
 
 </body>

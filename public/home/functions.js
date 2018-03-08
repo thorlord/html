@@ -20,4 +20,3 @@ function randomMemes() {
 function displayMemes(id) {
 	document.getElementById('memes').innerHTML = randomMemes()
 }
-
