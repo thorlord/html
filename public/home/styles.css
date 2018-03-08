@@ -21,7 +21,7 @@
 
 .boxcontainer {
     display: inline;
-/*     float: left;*/
+/*  float: left;*/
     padding-top: 100px;
     padding-left: 100px;
 }
@@ -45,17 +45,23 @@
     background: teal;
     height: 170px;
     width: 170px; 
+<<<<<<< HEAD
   margin: 90px; 
+=======
+  	margin: 100px; 
+>>>>>>> 78da5bd4f4526caee43084500c51bd00a9abe99f
 }
 
 .inline {
     float: left;
 }
+
 .contentbox {
     background: cyan;
     height: 170px;
     width: 170px;
 }
+
 .gamechanger {
     background: blueviolet
 }
