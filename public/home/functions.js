@@ -8,7 +8,8 @@ const memes = [
 	'Mustard is totally deept fried', 
 	'Ketchup is like tomato, pretty bloody', 
 	'Pickles is like being in a jam ... pickle',
-	'Thorlord is one deep fried teenage slacker hacker ... '
+	'Thorlord is one deep fried teenage slacker hacker ... ',
+	'when nerds makes memes be like...'
 ]
 
 function randomMemes() {
