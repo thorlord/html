@@ -21,9 +21,9 @@
 
 .boxcontainer {
     display: inline;
-/*  float: left;*/
-    padding-top: 100px;
-    padding-left: 100px;
+/*     float: left;*/
+    padding-top: 90px;
+    padding-left: 90px;
 }
 
 .memebox {
@@ -51,13 +51,11 @@
 .inline {
     float: left;
 }
-
 .contentbox {
     background: cyan;
     height: 170px;
     width: 170px;
 }
-
 .gamechanger {
     background: blueviolet
 }
