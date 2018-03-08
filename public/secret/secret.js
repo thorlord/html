@@ -34,6 +34,7 @@ const memes = [
 	'when nerds makes memes be like...'
 ]
 
+
 function randomMemes() {
 	return memes[Math.floor(Math.random() * memes.length)];
 }
