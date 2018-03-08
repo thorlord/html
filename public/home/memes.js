@@ -10,7 +10,6 @@ function randomImageMemes() {
 	return imageMemes[Math.floor(Math.random() * imageMemes.length)];
 }
 
-function displayImageMemes(id) {
-	document.getElementById('memes').innerHTML = randomMemes()
+function displayImageMemes() {
+	document.getElementById("imagememes").src = randomImageMemes()
 }
-
