@@ -12,8 +12,7 @@ const imageMemes = [
 	'https://heavyeditorial.files.wordpress.com/2016/11/screen-shot-2016-11-08-at-11-44-23-pm.jpg?quality=65&strip=all&w=780',
 	'https://i.ytimg.com/vi/9mv17I9mGKw/maxresdefault.jpg',
 	'https://i2.wp.com/picsdownloadz.com/wp-content/uploads/2016/09/their-yard-sign-said-trump-momma-hates-trump-Funny-hilarious-trump-Memes.jpg?resize=600%2C451',
-	'http://www.funnybeing.com/wp-content/uploads/2017/02/Mexicans-Training-For-Donald-Trumps-Wall.png',
-	'https://pics.me.me/donald-trumps-hair-finally-runs-off-to-seek-a-better-12189603.png',
+
 	''
 ]
 
