@@ -1,3 +1,5 @@
+
+
 // Array of strings
 const imageMemes = [
 	'https://i.imgur.com/BKsoNEr.png',
@@ -33,7 +35,6 @@ const memes = [
 function randomImageMemes() {
 	return imageMemes[Math.floor(Math.random() * imageMemes.length)];
 }
-
 function displayImageMemes() {
 	document.getElementById("imagememes").src = randomImageMemes()
 }
